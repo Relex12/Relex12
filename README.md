@@ -1,22 +1,16 @@
 ## Hi there 👋
 
-**I am Adrian Bonnet - aka Relex12 .**
-
-**Let me introduce you through my GitHub profile !**
+**My name is Adrian Bonnet - aka Relex12, let me introduce you through my GitHub profile !**
 
 <br/>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Relex12&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
+[![Relex12's github stats](https://github-readme-stats.vercel.app/api?username=Relex12&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My past, present and future projects
 
 #### What I'm currently working on:
 
-* my **website**, hosted by *GitHub Pages* and powered by *Jekyll* : [Relex12.github.io](Relex12.github.io)
-
-<br/>
+* my **website**, hosted by *GitHub Pages* and powered by *Jekyll* : [Relex12.github.io](https://Relex12.github.io)
 
 #### You can have a look at my work
 
@@ -28,6 +22,8 @@
 
 
 
+
+<br/>
 
 <br/>
 
@@ -57,7 +53,9 @@
 
 <br/>
 
-### My skills
+<br/>
+
+#### My skills
 
 #### Known and used languages
 
@@ -78,11 +76,6 @@
 * Docker
 * Flutter on Android Studio
 
-<br/>
-
-
-<br/>
-
 ### About me
 
 I am French IT engineer student,[...].
@@ -91,16 +84,12 @@ I grew up near Avignon [...]
 
 In 2016, I joined Grenoble INP - Esisar school [...]
 
-<br/>
-
 #### Personal goals
 
 My objectives are:
 
 * to get more stars on my projects, by diffusing my work
 * to contribute to other open-source projects
-
-<br/>
 
 #### See more
 
@@ -113,12 +102,16 @@ If your interested, please have a look at the following:
 
 <br/>
 
-### How to reach me:
+<br/>
 
-* by email : adrian.bonnet@etu.esisar.grenoble-inp.fr (pro) or relex12@free.fr (perso)
+#### How to reach me:
+
+* by email : adrian.bonnet@etu.esisar.grenoble-inp.fr (business) or relex12@free.fr (personal)
 * by instant message on LinkedIn or Facebook Messenger
 
+<br/>
 
+If you're interested in the GitHub Stats cards I used, please check out [github-readme-stats](https://github.com/anuraghazra/github-readme-stats/).
 
 ---
 
