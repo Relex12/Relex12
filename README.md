@@ -12,10 +12,16 @@
 
 * my **website**, hosted by *GitHub Pages* and powered by *Jekyll* : [Relex12.github.io](https://Relex12.github.io)
 
-#### You can have a look at my work
+#### Have a look at my work
 
 [<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Word_machine"/>](https://github.com/Relex12/Word_machine)
 [<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=lining-draw"/>](https://github.com/Relex12/lining-draw)
+
+
+
+
+
+
 
 
 
@@ -38,6 +44,8 @@
 
 
 
+
+
 <br/>
 
 ### You can also read
@@ -51,11 +59,17 @@
 
 
 
-<br/>
+
+
+
+
+
 
 <br/>
 
-#### My skills
+<br/>
+
+### My skills
 
 #### Known and used languages
 
@@ -95,7 +109,7 @@ My objectives are:
 
 If your interested, please have a look at the following:
 
-[<img align="left" alt="My Website" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](Relex12.github.io)
+[<img align="left" alt="My Website" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://Relex12.github.io)
 [<img align="left" alt="Adrian Bonnet | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://fr.linkedin.com/in/adrian-bonnet-897b6218a)
 
 
