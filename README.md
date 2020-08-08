@@ -14,22 +14,15 @@
 
 #### Have a look at my work
 
-[<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Word_machine"/>](https://github.com/Relex12/Word_machine)
-[<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=lining-draw"/>](https://github.com/Relex12/lining-draw)
+<div>
+    <a href="https://github.com/Relex12/Word_machine"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Word_machine"/></a>
+    <a href="https://github.com/Relex12/lining-draw"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=lining-draw"/></a>
+</div>
 
 
 
 
 
-
-
-
-
-
-
-
-
-<br/>
 
 <br/>
 
