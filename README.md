@@ -1,89 +1,65 @@
-## Hi there 👋
+# Hi there 👋
 
-**My name is Adrian Bonnet - aka Relex12, let me introduce you through my GitHub profile !**
+**My name is Adrian Bonnet - aka Relex12 - let me introduce myself !**
 
 <br/>
 
 [![Relex12's github stats](https://github-readme-stats.vercel.app/api?username=Relex12&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### My past, present and future projects
 
-#### What I'm currently working on:
+## My past, present and future projects
+
+### :car: What I'm currently working on
 
 * my **website**, hosted by *GitHub Pages* and powered by *Jekyll* : [Relex12.github.io](https://Relex12.github.io)
 
-#### Have a look at my work
+<br/>
 
-<div>
-    <a href="https://github.com/Relex12/Word_machine"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Word_machine"/></a>
-    <a href="https://github.com/Relex12/lining-draw"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=lining-draw"/></a>
-</div>
+### :boat: Have a look at my work
 
+[![Word_machine](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Word_machine)](https://github.com/Relex12/Word_machine)
+<br/>
+[![lining-draw](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=lining-draw)](https://github.com/Relex12/lining-draw)
+<br/>
 
+### :rocket: Incoming projects
 
+[![Loup-garou](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Loup-garou)](https://github.com/Relex12/Loup-garou)
+<br/>
+[![Genex](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Genex)](https://github.com/Relex12/Genex)
+<br/>
 
+## :book: You can also read
 
+[![Maths_for_IT](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Maths_for_IT)](https://github.com/Relex12/Maths_for_IT)
+<br/>
+[![Languages](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Languages)](https://github.com/Relex12/Languages)
 
 <br/>
 
-#### Incoming projects
+## My skills
 
-[<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Loup-garou"/>](https://github.com/Relex12/Loup-garou)
-[<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Genex"/>](https://github.com/Relex12/Genex)
-
-
-
-
-
-
-
-
-
+### :heavy_check_mark: Languages and Tools
+<img align="center" alt="Python" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/><img align="center" alt="C" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg"/><img align="center" alt="Java" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/><img align="center" alt="Git" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg"/><img align="center" alt="MySQL" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg"/><img align="center" alt="Bash" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg"/>
 <br/>
-
-### You can also read
-
-[<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Maths_for_IT"/>](https://github.com/Relex12/Maths_for_IT)
-[<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Languages"/>](https://github.com/Relex12/Languages)
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br/>
-
-<br/>
-
-### My skills
-
-#### Known and used languages
-
-* Python
-* C
-* Java
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Relex12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 > Don't trust this graphic, I am terrible at front-end development
 
 <br/>
 
-#### What I want to learn
+### :question: What I want to learn
 
-* JavaScript
-* C# and Unity
-* Docker
-* Flutter on Android Studio
+* <img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
 
-### About me
+* <img align="left" alt="CSharp" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg"/><img align="left" alt="Unity" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg"/>
+
+* <img align="left" alt="Docker" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg"/>
+
+* <img align="left" alt="Flutter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg"/> <img align="left" alt="Android Studio" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg"/>
+<br/>
+
+## About me
 
 I am French IT engineer student,[...].
 
@@ -91,37 +67,34 @@ I grew up near Avignon [...]
 
 In 2016, I joined Grenoble INP - Esisar school [...]
 
-#### Personal goals
+### :checkered_flag: Personal goals
 
-My objectives are:
+My objectives are
 
 * to get more stars on my projects, by diffusing my work
 * to contribute to other open-source projects
 
-#### See more
+### :link: See more
 
-If your interested, please have a look at the following:
+If your interested, please have a look at the following
 
-[<img align="left" alt="My Website" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://Relex12.github.io)
-[<img align="left" alt="Adrian Bonnet | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://fr.linkedin.com/in/adrian-bonnet-897b6218a)
-
-
-
+<center>
+<a href="https://Relex12.github.io"><img align="left" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/></a>
+<a href="https://GitHub.com/Relex12"><img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/></a>
+<a href="https://fr.linkedin.com/in/adrian-bonnet-897b6218a"><img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
 <br/>
-
 <br/>
+</center>
 
-#### How to reach me:
+### :mailbox: ​Contact
 
 * by email : adrian.bonnet@etu.esisar.grenoble-inp.fr (business) or relex12@free.fr (personal)
 * by instant message on LinkedIn or Facebook Messenger
 
 <br/>
 
-If you're interested in the GitHub Stats cards I used, please check out [github-readme-stats](https://github.com/anuraghazra/github-readme-stats/).
-
 ---
 
-Version en Français à venir.
+:fr: Version en Français à venir.
 
 ---
