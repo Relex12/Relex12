@@ -40,12 +40,12 @@
 ### :heavy_check_mark: Languages and Tools
 
 <center>
-<a><img align="left" alt="Python" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/></a>
-<a><img align="left" alt="C" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg"/></a>
-<a><img align="left" alt="Java" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/></a>
-<a><img align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg"/></a>
-<a><img align="left" alt="MySQL" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg"/></a>
-<a><img align="left" alt="Bash" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg"/></a>
+<img align="left" alt="Python" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>
+<img align="left" alt="C" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg"/>
+<img align="left" alt="Java" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/>
+<img align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg"/>
+<img align="left" alt="MySQL" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg"/>
+<img align="left" alt="Bash" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg"/>
 <br/>
 <br/>
 </center>
@@ -53,6 +53,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Relex12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 > Don't trust this graphic, I am terrible at front-end development
+
+<br/>
 
 ### :question: What I want to learn
 
