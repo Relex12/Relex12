@@ -12,7 +12,6 @@
 ### :car: What I'm currently working on
 
 * my **website**, hosted by *GitHub Pages* and powered by *Jekyll* : [Relex12.github.io](https://Relex12.github.io)
-
 <br/>
 
 ### :boat: Have a look at my work
@@ -34,7 +33,6 @@
 [![Maths_for_IT](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Maths_for_IT)](https://github.com/Relex12/Maths_for_IT)
 <br/>
 [![Languages](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Languages)](https://github.com/Relex12/Languages)
-
 <br/>
 
 ## My skills
@@ -51,6 +49,7 @@
 <br/>
 <br/>
 </center>
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Relex12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 > Don't trust this graphic, I am terrible at front-end development
