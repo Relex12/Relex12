@@ -40,24 +40,31 @@
 ## My skills
 
 ### :heavy_check_mark: Languages and Tools
-<img align="center" alt="Python" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/><img align="center" alt="C" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg"/><img align="center" alt="Java" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/><img align="center" alt="Git" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg"/><img align="center" alt="MySQL" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg"/><img align="center" alt="Bash" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg"/>
+
+<center>
+<a><img align="left" alt="Python" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/></a>
+<a><img align="left" alt="C" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg"/></a>
+<a><img align="left" alt="Java" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/></a>
+<a><img align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg"/></a>
+<a><img align="left" alt="MySQL" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg"/></a>
+<a><img align="left" alt="Bash" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg"/></a>
 <br/>
+<br/>
+</center>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Relex12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 > Don't trust this graphic, I am terrible at front-end development
 
-<br/>
-
 ### :question: What I want to learn
 
-* <img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
-
-* <img align="left" alt="CSharp" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg"/><img align="left" alt="Unity" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg"/>
-
-* <img align="left" alt="Docker" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg"/>
-
-* <img align="left" alt="Flutter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg"/> <img align="left" alt="Android Studio" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg"/>
+<center>
+<img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
+<img align="left" alt="CSharp" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg"/><img align="left" alt="Unity" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg"/>
+<img align="left" alt="Docker" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg"/>
+<img align="left" alt="Flutter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg"/> <img align="left" alt="Android Studio" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg"/>
 <br/>
+<br/>
+</center>
 
 ## About me
 
@@ -95,6 +102,6 @@ If your interested, please have a look at the following
 
 ---
 
-:fr: Version en Français à venir.
+Version en Français à venir.
 
 ---
