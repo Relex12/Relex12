@@ -10,15 +10,18 @@
 
 ## Guide through my website
 
-* [Genex](http://relex12.github.io/Genex)
-* [Languages](http://relex12.github.io/Languages)
+In English :
 * [Lining draw](http://relex12.github.io/Lining-draw)
-* [Loup-garou](http://relex12.github.io/Loup-garou)
 * [Markdown Table of Contents](http://relex12.github.io/Markdown-Table-of-Contents)
-* [Maths for IT](http://relex12.github.io/Maths-for-IT)
-* [Secret-santa](http://relex12.github.io/Secret-Santa)
-* [Voting System Comparison](http://relex12.github.io/Voting-System-Comparaison)
 * [Word Machine](http://relex12.github.io/Word-machine)
+
+In French :
+* [Genex](http://relex12.github.io/fr/Genex)
+* [Languages](http://relex12.github.io/fr/Languages)
+* [Loup-garou](http://relex12.github.io/fr/Loup-garou)
+* [Maths for IT](http://relex12.github.io/fr/Maths-for-IT)
+* [Secret-santa](http://relex12.github.io/fr/Secret-Santa)
+* [Voting System Comparison](http://relex12.github.io/fr/Voting-System-Comparaison)
 
 ## Guide through my GitHub repositories
 
@@ -31,7 +34,6 @@
 <br/> [![Secret-Santa](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Secret-Santa)](https://github.com/Relex12/Word_machine)
 <br/>
 [![lining-draw](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=lining-draw)](https://github.com/Relex12/lining-draw)
-
 <br/>
 
 ### 📖 What I wrote
@@ -39,9 +41,7 @@
 
 
 [![Voting-Systems-Comparison](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Voting-Systems-Comparison)](https://github.com/Relex12/Maths_for_IT)
-<br/>
-
-[![Maths_for_IT](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Maths_for_IT)](https://github.com/Relex12/Maths_for_IT)
+<br/>[![Maths_for_IT](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Maths_for_IT)](https://github.com/Relex12/Maths_for_IT)
 <br/>
 [![Languages](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Languages)](https://github.com/Relex12/Languages)
 <br/>
