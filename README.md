@@ -1,9 +1,3 @@
-<!---[pas sur le site]--->
-<!---esisar-tp--->
-<!---cours_python (mettre dans languages)--->
-<!---esisar cs351 (mettre dans esisar)--->
-<!---esisar porojet ogar (mettre dans esisar)--->
-
 # Hi there 👋
 
 **My name is Adrian Bonnet, aka Relex12 !**
@@ -23,6 +17,8 @@
 [![Simple-Progress-Bar](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Simple-Progress-Bar)](https://relex12.github.io/Simple-Progress-Bar)
 
 [![Markdown-Table-of-Contents](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Markdown-Table-of-Contents)](https://relex12.github.io/Markdown-Table-of-Contents)
+
+[![Wikipedia-Translate-Crawler](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Wikipedia-Translate-Crawler)](https://relex12.github.io/Wikipedia-Translate-Crawler)
 
 [![Lining-draw](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Lining-draw)](https://relex12.github.io/Lining-draw)
 
@@ -46,9 +42,13 @@
 
 [![Languages](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Languages)](https://relex12.github.io/fr/Languages)
 
+[![Text-to-Speech-survey](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Text-to-Speech-survey)](https://relex12.github.io/fr/Text-to-Speech-survey)
+
 ### 🎁 Secret Santa
 
 [![Secret-Santa](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Secret-Santa)](https://relex12.github.io/fr/Secret-Santa)
+
+[![SecretSantaJS](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=SecretSantaJS)](https://relex12.github.io/fr/SecretSantaJS)
 
 ### 🔮 Future
 
