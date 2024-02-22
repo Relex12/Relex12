@@ -16,10 +16,14 @@
 
 ## Projects
 
-### 💻 Miscellaneous
+### 🔐 Password manager
 
 [![Decentralized-Password-Manager](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Decentralized-Password-Manager)](https://relex12.github.io/fr/Decentralized-Password-Manager)
-<br/>[![Simple-Progress-Bar](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Simple-Progress-Bar)](https://relex12.github.io/Simple-Progress-Bar)
+<br/>[![3PBDH - Pairing base Diffie-Hellman](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=3PBDH)](https://relex12.github.io/fr/3PBDH)
+
+### 💻 Miscellaneous
+
+[![Simple-Progress-Bar](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Simple-Progress-Bar)](https://relex12.github.io/Simple-Progress-Bar)
 <br/>[![Markdown-Table-of-Contents](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Markdown-Table-of-Contents)](https://relex12.github.io/Markdown-Table-of-Contents)
 <br/>[![Lining-draw](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Lining-draw)](https://relex12.github.io/Lining-draw)
 
